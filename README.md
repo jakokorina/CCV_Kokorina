@@ -69,6 +69,8 @@ example:
 python3 main.py --input_path ./data_example/input_data/ --output_path ./output/
 ```
 
+Images in .png format will be saved into ./output/ directory.
+
 
 ### Evaluator
 
