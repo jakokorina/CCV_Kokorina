@@ -63,6 +63,13 @@ All data will be saved in `output_path` directory in our example, it will be sav
 The generated data will be in `.npy`format and prefix `gt` mean Ground truth and `sample` is generated data using 
 `Canon 600D camera`
 
+### My solution
+example:
+```bash
+python3 main.py --input_path ./data_example/input_data/ --output_path ./output/
+```
+
+
 ### Evaluator
 
 This is a evaluator for Image Sigral Processing pieplines.
